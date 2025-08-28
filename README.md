@@ -4,7 +4,7 @@
 </p>
 
 <!-- Judul + Animasi -->
-<h1 align="center">Hi 👋, I'm Angga Aldy</h1>
+<h1 align="center">Hallo, I'm Angga Aldy</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=💻+Software+Developer;🚀+Fullstack+Enthusiast;🎨+UI%2FUX+Design+Learner;⚡+Always+Learning+New+Things" alt="Typing SVG" />
 </p>
@@ -51,8 +51,8 @@
 ## 🌍 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/USERNAME" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/USERNAME" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-  <a href="https://USERNAME.vercel.app" target="blank"><img src="https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white" /></a>
+  <a href="https://instagram.com/bang_al_4l" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="https://angga2076.vercel.app" target="blank"><img src="https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
