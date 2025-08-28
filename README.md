@@ -6,7 +6,7 @@
 <!-- Judul + Animasi -->
 <h1 align="center">Hi, I'm Angga Aldy</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=💻+Software+Developer;🚀+Fullstack+Enthusiast;🎨+UI%2FUX+Design+Learner;⚡+Always+Learning+New+Things" alt="Typing SVG" />
+  font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=💻+Software+Developer;🚀+Fullstack+Enthusiast;🎨+UI%2FUX+Design+Learner;⚡+Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
