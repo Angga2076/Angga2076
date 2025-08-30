@@ -7,7 +7,7 @@
 
 ## 👾 angg22?  
 
-`> Futuristic Developer | AI Craftsman | Cloud Native Explorer`
+`> Full Stack Developer | AI Craftsman | Cloud Native Explorer`
 
 ⚡ Specializing in **AI, Cloud, and Distributed Systems**  
 🟣 Inspired by **Cyberpunk aesthetics & bleeding-edge tech**  
@@ -40,7 +40,7 @@
 ---
 
 <p align="center">  
-  🌌 *amga22."* 🌌  
+©2025 cyber neon  
 </p>
 
 
