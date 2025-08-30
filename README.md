@@ -5,7 +5,7 @@
 
 ---
 
-## 👾 angg22?  
+## 👾 Angga_Aldy!
 
 `> Full Stack Developer | AI Craftsman | Cloud Native Explorer`
 
