@@ -5,7 +5,7 @@
 
 ---
 
-## 👾 Who Aldy?  
+## 👾 Who Am I?  
 
 `> Futuristic Developer | AI Craftsman | Cloud Native Explorer`
 
