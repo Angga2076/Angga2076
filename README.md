@@ -5,7 +5,7 @@
 
 ---
 
-## 👾 Who Am I?  
+## 👾 angg22?  
 
 `> Futuristic Developer | AI Craftsman | Cloud Native Explorer`
 
@@ -14,12 +14,6 @@
 🌌 Building **scalable projects for the next decade**  
 
 ---
-
-## ⚙️ Tech Arsenal  
-
-
----
-
 ## 📡 GitHub Signals  
 
 <p align="center">
@@ -46,7 +40,7 @@
 ---
 
 <p align="center">  
-  🌌 *"In a neon-lit world, code is the true power."* 🌌  
+  🌌 *amga22."* 🌌  
 </p>
 
 
